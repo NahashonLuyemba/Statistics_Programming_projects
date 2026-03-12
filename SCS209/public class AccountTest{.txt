@@ -1,0 +1,25 @@
+public class AccountTest{
+public static void main(String[] args){
+Account ac1 = new Account();
+ac1.acc_name = "Bernard Ondara";
+ac1.acc_no = 1;
+ac1.acc_balance = 10000;
+Account ac2 = new Account();
+ac2.acc_name = "Joy Kamau";
+ac2.acc_no = 2;
+ac2.acc_balance = 12000;
+Account ac3 = new Account();
+ac3.acc_name = "David Deekow";
+ac3.acc_no = 3;
+ac3.acc_balance = 8000;
+
+ac1.welcomeMessage();
+
+System.out.println("Acc No. \t Name \t\t Balance");
+System.out.println("-----------\t ---------\t ----------");
+System.out.println(ac1.acc_no + "\t\t" + ac1.acc_name + "\t" + ac1.acc_balance);
+System.out.println(ac2.acc_no + "\t\t" + ac2.acc_name + "\t" + ac2.acc_balance);
+System.out.println(ac3.acc_no + "\t\t" + ac3.acc_name + "\t" + ac3.acc_balance);
+
+} // End of main method
+} // End of class

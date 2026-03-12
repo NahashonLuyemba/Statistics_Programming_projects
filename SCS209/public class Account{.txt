@@ -1,0 +1,12 @@
+public class Account{
+
+public String bank_name = "KCB";
+public int acc_no;
+public String acc_name;
+public double acc_balance;
+
+public void welcomeMessage(){
+System.out.println("Welcome to KCB");
+}
+
+} // End of class

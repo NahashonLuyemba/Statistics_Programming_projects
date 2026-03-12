@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>meru universitz class units</title>
+</head>
+<body>
+<table border="1">
+ <thead>
+ <tr>colspan="3"</tr>
+ </thead>
+ <tbody>
+  <tr>
+    <td>unit code</td>
+    <td>unit name</td>
+    <td>year</td>
+  </tr>
+  <tr>
+    <td>BIT3103</td>
+    <td>fundamentals of internet</td>
+    <td>year 1</td>
+   </tr>
+  < <tr>
+    <td>ucu3102<td>
+    <td>communication skills</td>
+    <td>year 1</td>
+  </tr>
+ </tbody>
+<body>
+<html>
+
+
+   
